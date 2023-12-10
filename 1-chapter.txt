@@ -1,3 +1,3 @@
-1 1 Chapter - the beginnig of git
+1 Chapter - the beginnig of git
 
 Git is a versioning system to save your code and track made changes in it.
